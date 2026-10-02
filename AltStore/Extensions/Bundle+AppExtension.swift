@@ -13,3 +13,4 @@ public extension Bundle {
         return Bundle.main.executablePath?.contains(".appex/") ?? false
     }
 }
+run
